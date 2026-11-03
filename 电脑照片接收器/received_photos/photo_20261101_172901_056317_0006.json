@@ -1,0 +1,17 @@
+{
+  "width": 1280,
+  "height": 720,
+  "total_bytes": 2764800,
+  "slots": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "asset_version": 1598263248,
+  "gamma": true,
+  "epoch": 6,
+  "seconds": 1.092,
+  "retry_count": 0,
+  "image_crc32": "a687508b"
+}

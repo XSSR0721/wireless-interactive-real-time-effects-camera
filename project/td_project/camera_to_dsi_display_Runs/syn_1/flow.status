@@ -1,0 +1,23 @@
+Location         : C:\Users\20235\Desktop\HX1P35A_SC500_720P30_1\HX1P35A_SC500_720P30_2\testwangkou\project\td_project\camera_to_dsi_display_Runs\syn_1
+Running with     : Tang Dynasty v6.2.168116
+                   Copyright (c) 2012-2025 Anlogic Inc.
+Top Model        : design_top_wrapper
+Device           : PH1P35MDG324
+Speed            : 3
+
+Timing Mode      : basic
+Setup            : WNS -1265ps  TNS   -48134ps  NUM_FEPS    75
+Hold             : WNS   114ps  TNS        0ps  NUM_FEPS     0
+
+Flow Statistics  :
+---------------------------------------------------------------------------------------------------
+     command     |  #calls  |  wall time   |  cpu time(s)  |  used memory(mb)  |  peak memory(mb)  
+---------------------------------------------------------------------------------------------------
+  optimize_gate  |    1     |  2m38s(65%)  |   156(66%)    |       1577        |       1577        
+  optimize_rtl   |    1     |  1m18s(32%)  |    76(32%)    |       1234        |       1322        
+  import_device  |    1     |    2s(0%)    |     2(0%)     |        323        |        323        
+    read_adc     |    1     |    2s(0%)    |     2(0%)     |        802        |        804        
+    read_sdc     |    3     |    0s(0%)    |     0(0%)     |        796        |        804        
+---------------------------------------------------------------------------------------------------
+      total      |    7     |     4m0s     |      236      |       1577        |       1577        
+---------------------------------------------------------------------------------------------------
